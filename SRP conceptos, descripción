@@ -1,0 +1,4 @@
+El Principio de Responsabilidad Única (SRP, por sus siglas en inglés) establece que una clase o módulo debe tener una única razón para cambiar, es decir, 
+debe ser responsable de un solo propósito o funcionalidad en el sistema. Si una clase tiene múltiples responsabilidades, cada una podría motivar cambios en ella, 
+lo que aumenta la complejidad y dificulta su mantenimiento. Este principio ayuda a mantener un código más limpio, modular y fácil de modificar o extender, 
+al separar las preocupaciones en componentes individuales.
